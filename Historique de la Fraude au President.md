@@ -8,17 +8,12 @@
 
 **pour l'obtention de leur M2 Informatique**
 
-*Académie de Nancy-Metz
-
-Université de Lorraine
-
-Unité de Formation et Recherche Mathématique, Informatique et Mécanique
-
-Département Informatique
-
-Spécialité SSSR – Formation SSI
-
-Année 2015-2016*
+*Académie de Nancy-Metz*
+*Université de Lorraine*
+*Unité de Formation et Recherche Mathématique, Informatique et Mécanique*
+*Département Informatique*
+*Spécialité SSSR – Formation SSI*
+*Année 2015-2016*
 
 ##Sommaire
 
