@@ -1,17 +1,16 @@
 ![Université de Lorraine](/images/udl.jpg)
 
-<p style="center">#*Historique de la Fraude au Président*  
+<center>#*Historique de la Fraude au Président*  
 **Un rapport de Sécurité des Réseaux présenté par**  
 *Benjamin Joly et Déborah Servili*  
-**pour l'obtention de leur M2 Informatique**</p>  
+**pour l'obtention de leur M2 Informatique**</center>
 
-
-<p style="center">*Académie de Nancy-Metz*  
+*Académie de Nancy-Metz*  
 *Université de Lorraine*  
 *Unité de Formation et Recherche Mathématique, Informatique et Mécanique*  
 *Département Informatique*  
 *Spécialité SSSR – Formation SSI*  
-*Année 2015-2016*</p>
+*Année 2015-2016*
 
 ##Sommaire
 
