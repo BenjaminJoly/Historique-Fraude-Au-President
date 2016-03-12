@@ -17,11 +17,11 @@
 
 ##Sommaire
 
-###Introduction
-###I. La fraude au président : Qu'est-ce ? 
-###II. Historique des aranaques
-###III. Prévenir l'escroquerie : Piste de Réflexions 
-###Conclusion
+###[Introduction]
+###[I. La fraude au président : Qu'est-ce ?] 
+###[II. Historique des aranaques]
+###[III. Prévenir l'escroquerie : Piste de Réflexions]
+###[Conclusion]
 
 ##Introduction
 
