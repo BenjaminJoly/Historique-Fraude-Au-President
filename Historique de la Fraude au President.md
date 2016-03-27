@@ -16,7 +16,7 @@
 
 ###[Introduction](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#introduction-1)
 ###[I. La fraude au président : Qu'est-ce ?](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#i-la-fraude-au-pr%C3%A9sident--quest-ce--1)
-###[II. Historique des aranaques](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#ii-historique-des-arnaques)
+###[II. Historique des arnaques](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#ii-historique-des-arnaques)
 ###[III. Prévenir l'escroquerie : Piste de Réflexions](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#iii-pr%C3%A9venir-lescroquerie--piste-de-r%C3%A9flexions-1)
 ###[Conclusion](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#conclusion-1)
 ======
@@ -34,5 +34,16 @@ Dans un premier temps, nous allons nous concentrer sur le phénomène : Qu'est-i
 ##II. Historique des arnaques
 
 ##III. Prévenir l'escroquerie : Piste de Réflexions
+
+###A. Agir sur les causes
+
+Si nous voulons pouvoir agir sur les causes d'un problème, il est assez important de les comprendre. C'est une tâche relativement complexe, car comprendre tout les vecteurs nécéssite un recul assez important : Pour comprendre un évènement sur une frise chronologique, il est important de regarder ce qui l'as provoqué, en reculant notre regard pour avoir une bonne vue d'ensemble. Cependant, nous pouvons nous questionner sur notre habilité, actuellement, a pouvoir nous reculer : Les évènements récents n'ont peut-être pas encore dévoilés toutes les causes qui les ont amenés ...
+
+Deux remarques peuvent se faire, des correlations assez simple, néanmoins il est de notre devoir de le relever : Dans un premier temps, il semble évident que beaucoup d'entreprises visées sont francophones. Par ailleurs beaucoup de ceux qui réalisent ces attaques viennent également d'un pays avec un passé francophone. Et dans un second temps, nous pouvons citer la hierarchie relativement flou qui compose ses entreprises. Nous n'avons pas trouvé de réelle cause supplémentaire, mais nous n'avons probablement pas tout le recul nécessaire.
+
+####1. Le problème francophone
+
+Outre le fait que l'"instigateur" de cette attaque soit d'originne franco-israëlienne, réglant de façon quasi automatique ce fait que le lieu de départ de l'attaque est de l'Israël vers le France, cela n'explique pas pourquoi il semble si difficile d'exporter ce modèle. 
+
 
 ##Conclusion
