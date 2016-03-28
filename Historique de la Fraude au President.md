@@ -35,15 +35,4 @@ Dans un premier temps, nous allons nous concentrer sur le phénomène : Qu'est-i
 
 ##III. Prévenir l'escroquerie : Piste de Réflexions
 
-###A. Agir sur les causes
-
-Si nous voulons pouvoir agir sur les causes d'un problème, il est assez important de les comprendre. C'est une tâche relativement complexe, car comprendre tout les vecteurs nécéssite un recul assez important : Pour comprendre un évènement sur une frise chronologique, il est important de regarder ce qui l'as provoqué, en reculant notre regard pour avoir une bonne vue d'ensemble. Cependant, nous pouvons nous questionner sur notre habilité, actuellement, a pouvoir nous reculer : Les évènements récents n'ont peut-être pas encore dévoilés toutes les causes qui les ont amenés ...
-
-Deux remarques peuvent se faire, des correlations assez simple, néanmoins il est de notre devoir de le relever : Dans un premier temps, il semble évident que beaucoup d'entreprises visées sont francophones. Par ailleurs beaucoup de ceux qui réalisent ces attaques viennent également d'un pays avec un passé francophone. Et dans un second temps, nous pouvons citer la hierarchie relativement flou qui compose ses entreprises. Nous n'avons pas trouvé de réelle cause supplémentaire, mais nous n'avons probablement pas tout le recul nécessaire.
-
-####1. Le problème francophone
-
-Outre le fait que l'"instigateur" de cette attaque soit d'originne franco-israëlienne, réglant de façon quasi automatique ce fait que le lieu de départ de l'attaque est de l'Israël vers le France, cela n'explique pas pourquoi il semble si difficile d'exporter ce modèle. 
-
-
 ##Conclusion
