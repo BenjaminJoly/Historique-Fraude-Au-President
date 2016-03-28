@@ -30,7 +30,7 @@ Dans un premier temps, nous allons nous concentrer sur le phénomène : Qu'est-i
 
 ##I. La fraude au président : Qu'est-ce ? 
 
-![Tableau contenant des exemples de fraude au président](/images/TableauEntreprisesFraudeAuPresident.png)
+![Tableau contenant des exemples de fraude au président](/images/TableauEntreprisesFaraudeAuPresident.PNG)
 
 ##II. Prévenir l'escroquerie : Piste de Réflexions
 
