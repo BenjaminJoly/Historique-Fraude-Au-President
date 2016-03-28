@@ -16,7 +16,7 @@
 
 ###[Introduction](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#introduction-1)
 ###[I. La fraude au président : Qu'est-ce ?](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#i-la-fraude-au-pr%C3%A9sident--quest-ce--1)
-###[II. Prévenir l'escroquerie : Piste de Réflexions](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#iii-pr%C3%A9venir-lescroquerie--piste-de-r%C3%A9flexions-1)
+###[II. Prévenir l'escroquerie : Piste de Réflexions](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#ii-pr%C3%A9venir-lescroquerie--piste-de-r%C3%A9flexions-1)
 ###[Conclusion](https://github.com/BenjaminJoly/Historique-Fraude-Au-President/blob/master/Historique%20de%20la%20Fraude%20au%20President.md#conclusion-1)
 ======
 
@@ -30,7 +30,7 @@ Dans un premier temps, nous allons nous concentrer sur le phénomène : Qu'est-i
 
 ##I. La fraude au président : Qu'est-ce ? 
 
-![Tableau contenant des exemples de fraude au président](/images/TableauEntreprisesFraudeAuPresident.jpg)
+![Tableau contenant des exemples de fraude au président](/images/TableauEntreprisesFraudeAuPresident.png)
 
 ##II. Prévenir l'escroquerie : Piste de Réflexions
 
