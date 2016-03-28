@@ -46,6 +46,7 @@ Comme on peut le constater, plus aucune entreprise n’est réellement à l’ab
 
 Ainsi, il est certain que nous sommes loin de pouvoir encore enrayer ses attaques dont les victimes ne sont pas seulement les entreprises, mais également les employés abusés qui subissent les foudres de leurs supérieurs. Les conséquences professionnelles sont en effet loin d’être minimes, et il est rare qu’un des salariés trompés ait gardé son emploi. De plus, le choc est également psychologique, entrainant les victimes dans le cercle vicieux de la dépression, entrainant parfois jusqu’à des suicides. 
 
+Suite à ces constats plus que navrants, une réflexion naturelle serait de savoir ce que nous pouvons faire contre cela ? C'est ce que nous avons exploré comme piste pour la suite.
 
 ##II. Prévenir l'escroquerie : Pistes de Réflexion
 
