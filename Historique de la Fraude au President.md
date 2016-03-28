@@ -42,6 +42,11 @@ Les victimes sont de ces arnaques sont de plus en plus nombreuses, et aux victim
 
 ![Tableau contenant des exemples de fraude au président](/images/TableauEntreprisesFaraudeAuPresident.PNG)
 
+Comme on peut le constater, plus aucune entreprise n’est réellement à l’abri. A dire vrai, même les particuliers ne sont plus certains d’être protégés, car une nouvelle variante du scénario du changement de RIB se met en place, celle d’une arnaque basée sur les fournisseurs d’électricité ou d’eau. Dans ce nouveau scénario très similaire au précédent, l’escroc demanderait à un particulier de procéder au paiement de ses factures par virement sur un compte différent de l’officiel. Et si à l’échelle d’une personne, cela peut sembler ridicule, à l’échelle d’une région ou d’un pays, les gains deviennent tout de suite plus intéressants.
+
+Ainsi, il est certain que nous sommes loin de pouvoir encore enrayer ses attaques dont les victimes ne sont pas seulement les entreprises, mais également les employés abusés qui subissent les foudres de leurs supérieurs. Les conséquences professionnelles sont en effet loin d’être minimes, et il est rare qu’un des salariés trompés ait gardé son emploi. De plus, le choc est également psychologique, entrainant les victimes dans le cercle vicieux de la dépression, entrainant parfois jusqu’à des suicides. 
+
+
 ##II. Prévenir l'escroquerie : Pistes de Réflexion
 
 ###A. Agir sur les causes
